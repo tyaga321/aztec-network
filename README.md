@@ -15,6 +15,10 @@ Find this message about roles in channel: [operators| start-here](https://discor
 * **Prover Node**: Requiring ~40x machines with 16 cores and 128GB RAM
 * I do NOT run `Prover` sicne it's for data-center computing systems, not me.
 
+---
+
+**Windows Users** must install Ubuntu on Windows using this [guide](https://github.com/0xmoei/Install-Linux-on-Windows), then continue further steps.
+
 ## 1. Install Dependecies
 * Update packages:
 ```bash
