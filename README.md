@@ -175,5 +175,16 @@ aztec add-l1-validator \
 ```
 Replace `RPC_URL`, `your-validator-address` & 2x `your-validator-address`, then proceed
 
-
 ---
+
+# Error: `ERROR: world-state:block_stream Error processing block stream: Error: Obtained L1 to L2 messages failed to be hashed to the block inHash`
+No strong solution for this yet, but you can do the following things
+
+![image](https://github.com/user-attachments/assets/d332fe2b-c370-4855-8682-24a11091887d)
+
+* Stop node with Ctrl+C.
+* Delete node data:
+```bash
+rm -r /root/.aztec/alpha-testnet
+```
+* Re-run the node using run command.
