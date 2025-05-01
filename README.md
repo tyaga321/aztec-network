@@ -13,7 +13,7 @@ Find this message about roles in channel: [operators| start-here](https://discor
 ## Hardware Requirements
 * **Sequencer Node**: 8 cores CPU, 16GB RAM, 100GB+ SSD
 * **Prover Node**: Requiring ~40x machines with 16 cores and 128GB RAM
-* So we do NOT run `Prover` sicne it's for data-center computing systems, not us.
+* I do NOT run `Prover` sicne it's for data-center computing systems, not me.
 
 ## 1. Install Dependecies
 * Update packages:
