@@ -19,6 +19,10 @@ Find this message about roles in channel: [operators| start-here](https://discor
 
 **Windows Users** must install Ubuntu on Windows using this [guide](https://github.com/0xmoei/Install-Linux-on-Windows), then continue further steps.
 
+**VPS Users** can get started via a `VPS` with 4 cores CPU, 8GB RAM! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==)
+
+---
+
 ## 1. Install Dependecies
 * Update packages:
 ```bash
