@@ -77,13 +77,18 @@ aztec-up alpha-testnet
 ```
 
 ## 4. Obtain RPC URLs
-* Paid: Sepolia `RPC URL` & Sepolia `BEACON URL`: Register in [Ankr](https://www.ankr.com/rpc/?utm_referral=LqL9Sv86Te), Fund it with a little USDT via your wallet, Create a project, get your normal sepolia rpc and beacon sepolia rpc. ( I used this method )
+Find a 3rd party that supports Sepolia `RPC URL` & Sepolia `BEACON URL` APIs.
+
+### Paid: 
+For example: [Ankr](https://www.ankr.com/rpc/?utm_referral=LqL9Sv86Te) is supporting RPC URL & Beacon URL. You can Register, Fund it with a little USDT via your wallet, Create a project, get your normal **sepolia rpc** and **beacon sepolia rpc**. ( I used this method )
 
 ![image](https://github.com/user-attachments/assets/cfde5dec-ac1a-4d58-855b-43c4374c5c87)
 
 ![image](https://github.com/user-attachments/assets/ffb97518-cd24-46ee-b131-92b2870ac407)
 
-* Free: You can create a Sepolia `RPC URL` in [Alchemy](https://dashboard.alchemy.com/) and Use this `https://rpc.drpc.org/eth/sepolia/beacon` as free `BEACON RPC`. (You can run your own prysm, lighthouse nodes to get your own `BEACON RPC` or find other 3rd party solutions)
+### Free:
+`RPC URL`: Create a Sepolia Ethereum HTTP API in [Alchemy](https://dashboard.alchemy.com/)
+`BEACON RPC`: Use this `https://rpc.drpc.org/eth/sepolia/beacon`  or `https://lodestar-sepolia.chainsafe.io/`. (You can run your own prysm, lighthouse nodes to get your own `BEACON RPC` or find other 3rd party solutions)
 
 ## 5. Generate Ethereum Keys
 Get an EVM Wallet with `Private Key` and `Public Address` saved.
