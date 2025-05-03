@@ -191,6 +191,11 @@ aztec add-l1-validator \
 ```
 Replace `RPC_URL`, `your-validator-address` & 2x `your-validator-address`, then proceed
 
+* Note that there's a daily quota of 10 validator registration per day, if you get error, try again tommorrow.
+
+## Check Validator
+If your Validator Registration was successfull, you can check its stats in [Aztec Scan](https://aztecscan.xyz/validators)
+
 ---
 
 # Error: `ERROR: world-state:block_stream Error processing block stream: Error: Obtained L1 to L2 messages failed to be hashed to the block inHash`
