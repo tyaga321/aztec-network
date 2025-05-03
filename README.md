@@ -193,7 +193,7 @@ Replace `RPC_URL`, `your-validator-address` & 2x `your-validator-address`, then 
 
 * Note that there's a daily quota of 10 validator registration per day, if you get error, try again tommorrow.
 
-## Check Validator
+## 13. Check Validator
 If your Validator Registration was successfull, you can check its stats in [Aztec Scan](https://aztecscan.xyz/validators)
 
 ---
