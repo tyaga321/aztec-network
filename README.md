@@ -143,6 +143,13 @@ Replace the following variables before you Run Node:
 * `0xYourAddress`: Your EVM wallet public address
 * `IP`: Your server IP (Step 7)
 
+### Optional Commands:
+**Screen Commands:**
+* Minimze screen: `Ctrl` + `A` + `D`
+* Return to screen: `screen -r aztec`
+* Kill screen (when inside): `Ctrl`+`C+
+* Kill screen (when outside): `screen -XS aztec quit`
+
 ## 10. Sync Node
 After entering the command, your node starts running, It takes a few minutes for your node to get synced
 
