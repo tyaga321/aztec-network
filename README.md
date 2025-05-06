@@ -125,6 +125,9 @@ ufw allow 8080
 ```bash
 screen -S aztec
 ```
+```bash
+screen -r aztec
+```
 
 * Run Node
 ```
